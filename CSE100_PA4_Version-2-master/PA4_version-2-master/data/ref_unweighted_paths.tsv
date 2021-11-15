@@ -1,0 +1,9 @@
+(actor)--[movie#@year]-->(actor)--...
+(Nicole Kidman)--[Cold Mountain#@2003]-->(Renee Zellweger)--[The Whole Truth#@2016]-->(Keanu Reeves)
+(Tim Roth)--[Emmett's Mark#@2002]-->(Gabriel Byrne)--[Played#@2006]-->(Vinnie Jones)
+(Will Smith)--[Concussion#@2015]-->(Alec Baldwin)--[Mercury Rising#@1998]-->(Bruce Willis)
+(Christopher Walken)--[Man on Fire#@2004]-->(Radha Mitchell)--[Feast of Love#@2007]-->(Morgan Freeman)
+(Courteney Cox)--[3000 Miles to Graceland#@2001]-->(Christian Slater)--[Dawn Rider#@2012]-->(Jill Hennessy)--[If I Had Wings#@2013]-->(Richard Harmon)
+(Will Smith)--[Seven Pounds#@2008]-->(Michael Ealy)--[November#@2004]-->(Courteney Cox)
+(Cameron Diaz)--[Vanilla Sky#@2001]-->(Tom Cruise)--[Lions for Lambs#@2007]-->(Michael Pena)--[Boogie Boy#@1998]-->(Emily Lloyd)
+(Kyra Sedgwick)--[Big Sky#@2015]-->(Frank Grillo)
